@@ -1,0 +1,19 @@
+.nav-container {
+
+}
+.navbar-center {
+  width:auto;
+    display: flex;
+    justify-content: center;
+    margin:auto;
+}
+#home-button {
+  font-size:25px;
+  padding-top:5px;
+  text-decoration: none;
+  color:black;
+  transition-duration: 0.2s;
+}
+#home-button:hover {
+  color:lightgray;
+}
