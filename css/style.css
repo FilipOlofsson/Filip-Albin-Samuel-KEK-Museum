@@ -9,6 +9,11 @@
 }
 .title-name {
 	font-size:50px;
+  letter-spacing:20px;
+}
+.under-title-name {
+  font-size:25px;
+  letter-spacing:20px;
 }
 a {
 	text-decoration: none !important;
@@ -50,15 +55,6 @@ li a, .dropbtn {
 
 li.dropdown {
     display: inline-block;
-}
-.dropdown {
-}
-#circle-home {
-	background-color:#404040;
-	width:100px;
-	height:60px;
-	margin:auto;
-	border-radius:50%;
 }
 .dropdown-content {
     display: none;
@@ -189,4 +185,8 @@ a:hover {
 }
 .navigation-bar {
 	z-index: 100;
+}
+.collaborators {
+  font-size:20px;
+  letter-spacing:5px;
 }
