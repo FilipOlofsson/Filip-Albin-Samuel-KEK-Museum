@@ -1,0 +1,16 @@
+#Main {
+	background-color: white;
+	width: 80%;
+	margin: auto;
+	height: 2000px;
+	border-radius: 50px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+body {
+	background-image: url(Wallpaper.jpg);
+	background-attachment: fixed;
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
